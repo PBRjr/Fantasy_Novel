@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eae62b8319b34a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirit Companion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antagonist.md",
+                "file": "Spirit Companion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Antagonist.md",
+                "file": "Spirit Companion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antagonist.md"
+                "file": "Spirit Companion.md"
               }
             }
           },
@@ -156,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53c33bd384fc2dcd",
+  "active": "eae62b8319b34a3c",
   "lastOpenFiles": [
     "Magic System.md",
+    "Spirit Companion.md",
     "Antagonist.md"
   ]
 }
