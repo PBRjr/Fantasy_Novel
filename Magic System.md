@@ -8,10 +8,13 @@ Each branch gives the user two abilities. Using one comes at the cost of the oth
 ### What branches are there?
 [[Need Exploration]]
 #### Vitalism
-*Grow*: Allows the user to force living cells to replicate at an accelerated rate
-*Wither*: Allows the user to force living cells to age at an accelerated rate
+*Grow*: Increase the rate at which living cells replicate
+*Wither*: Increase the rate at which living cells age
 
 #### Kinetics
+*Excite*: Increase the average kinetic energy of particles
+*Still*: Decrease the average kinetic energy of particles
+
 
 
 
