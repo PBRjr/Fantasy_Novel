@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afd176feebd259fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae62b8319b34a3c",
+  "active": "afd176feebd259fe",
   "lastOpenFiles": [
-    "Spirit Companion.md",
+    "Need Exploration.md",
     "Magic System.md",
+    "Spirit Companion.md",
     "Antagonist.md"
   ]
 }
