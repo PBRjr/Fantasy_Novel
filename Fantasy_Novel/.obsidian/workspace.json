@@ -11,9 +11,11 @@
             "id": "53c33bd384fc2dcd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Antagonist.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -62,17 +64,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "410a18c9a1a705e7",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Antagonist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Antagonist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Antagonist.md"
+              }
             }
           },
           {
@@ -151,18 +148,17 @@
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "fa5b04e05843952b",
-  "lastOpenFiles": []
+  "active": "53c33bd384fc2dcd",
+  "lastOpenFiles": [
+    "Magic System.md",
+    "Antagonist.md"
+  ]
 }

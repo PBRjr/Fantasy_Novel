@@ -1,10 +1,6 @@
 [
   "advanced-merger",
-  "table-editor-obsidian",
-  "cmenu-plugin",
-  "file-tree-alternative",
   "obsidian-git",
   "obsidian-plugin-toc",
-  "templater-obsidian",
-  "obsidian-textgenerator-plugin"
+  "templater-obsidian"
 ]
