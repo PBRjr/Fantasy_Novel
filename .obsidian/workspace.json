@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic System.md",
+                "file": "Antagonist.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic System.md",
+                "file": "Antagonist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic System.md",
+                "file": "Antagonist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic System.md"
+                "file": "Antagonist.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "afd176feebd259fe",
   "lastOpenFiles": [
-    "Need Exploration.md",
     "Magic System.md",
+    "Need Exploration.md",
     "Spirit Companion.md",
     "Antagonist.md"
   ]
