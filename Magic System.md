@@ -15,6 +15,5 @@ Each branch gives the user two abilities. Using one comes at the cost of the oth
 *Excite*: Increase the average kinetic energy of particles
 *Still*: Decrease the average kinetic energy of particles
 
-
-
-
+#### Luminance
+[[Need Exploration]]
