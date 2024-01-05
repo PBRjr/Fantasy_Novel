@@ -8,4 +8,4 @@ discovers powers?
 
 Colonizer:
 From a medieval city
-Sent 
+Sent overseas for what? Why?
