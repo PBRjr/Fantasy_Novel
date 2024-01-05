@@ -5,3 +5,7 @@ From a small village
 doesn't break the rules
 cares about his tribe
 discovers powers?
+
+Colonizer:
+From a medieval city
+Sent 
