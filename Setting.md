@@ -10,6 +10,6 @@
 Historic Colonial period
 1. **Foreign Settlers:** Introduce settlers from distant lands with different cultural backgrounds, technologies, and ambitions. Their arrival creates a range of interactions - from trade and cultural exchange to conflict.
     
-2. **Technological Contrast:** Settlers might rely more on technology and less on magic, creating a stark contrast with the native populations.
+2. **Technological Contrast:** Settlers have a greater knowledge of modern technologies, mostly medieval weaponry, armor, and firearms, creating a stark contrast with the native populations.
     
 3. **Political Motives:** The settlers could represent various factions or nations, each with its political agendas, seeking new territories for resources, strategic advantages, or escape from problems in their homelands.
