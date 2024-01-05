@@ -7,3 +7,4 @@
 3. **Distinctive Wildlife:** Include fantastical creatures or unique wildlife adapted to the different environments, adding a magical element to the setting.
 
 ### Time period
+Historic Colonial period
