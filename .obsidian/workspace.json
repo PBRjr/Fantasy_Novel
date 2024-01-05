@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53c33bd384fc2dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antagonist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afd176feebd259fe",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27146bf8de6e9597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Characters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antagonist.md",
+                "file": "Main Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Antagonist.md",
+                "file": "Main Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antagonist.md"
+                "file": "Main Characters.md"
               }
             }
           },
@@ -168,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53c33bd384fc2dcd",
+  "active": "27146bf8de6e9597",
   "lastOpenFiles": [
+    "Antagonist.md",
+    "Main Characters.md",
     "Magic System.md",
     "Spirit Companion.md",
-    "Antagonist.md",
     "Need Exploration.md"
   ]
 }
