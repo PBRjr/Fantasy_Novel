@@ -1,0 +1,1 @@
+Vale threw himself to the ground, the 

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9558a8f1f0183b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Significant Characters.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Significant Characters.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Significant Characters.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40b41b4764bb9051",
+  "active": "9558a8f1f0183b29",
   "lastOpenFiles": [
-    "Themes and Ideas.md",
     "Significant Characters.md",
+    "Untitled.md",
+    "Themes and Ideas.md",
     "Setting.md",
     "Main Characters.md",
     "2024-01-26.md",
