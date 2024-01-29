@@ -4,4 +4,6 @@ Vale focused on his hearing, trying to discern which direction the sounds was he
 
 He knew he would have to get up eventually, to face whatever it was blocking his path. If it was even still there. He didn't hear any shuffling, just the whistle of a slight breeze rushing past him. It left, Vale knew it. He knew from the stories, the Altered were too dumb to stay in one place, let alone do it without making a noise. *Time to get up and go home,* he thought, *nothing to be afraid of.*
 
-He pushed himself to his knees, then crouched on his feet. He peeked over the haphazardly stacked pile of debris in front of him, trying to get his eyes to focus in the dim moonlight. He reached up with his left arm, wip
+He pushed himself to his knees, then crouched on his feet. He peeked over the haphazardly stacked pile of debris in front of him, trying to get his eyes to focus in the dim moonlight. He reached up with his left arm, wiping away the blur leftover from prolonged exposure to the back of his eyelids.
+
+He blinked hard. It was standing 10 feet away from him. It was staring right at him. And it **smiled**.
