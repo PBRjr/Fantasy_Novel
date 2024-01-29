@@ -1,3 +1,3 @@
 Vale threw himself to the ground with a jolt, barely noticing the gravel surface tear the flesh from his palms. *Did it see me,* he thought. He didn't dare check. He could hear shuffling coming from a few feet away, like someone was kicking their feet into the dirt out of boredom.
 
-Vale focused on his hearing, trying to descern which direction the sounds was heading. It seemed to be moving... away from him? Maybe towards him, he wasn't sure. He h
+Vale focused on his hearing, trying to discern which direction the sounds was heading. It seemed to be moving... away from him? Maybe towards him, he wasn't sure. He held his breath, his heartbeat pounding in his ears, his higher thoughts drowning below a sea of fear. 
