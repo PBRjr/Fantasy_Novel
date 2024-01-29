@@ -1,2 +1,2 @@
 ## Protagonist
-*Vale Rivers*
+**Vale Rivers**

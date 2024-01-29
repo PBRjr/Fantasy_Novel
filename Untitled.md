@@ -1,2 +1,1 @@
-Vale threw himself to the ground with a jolt, barely noticing the gravel surface tear the flesh from his palms. 
-Did it see me
+Vale threw himself to the ground with a jolt, barely noticing the gravel surface tear the flesh from his palms. *Did it see me,* he thought. He didn't dare check. He could hear shuffling coming from a few feet away, like someone was kicking their feet into the dirt out of boredom.
