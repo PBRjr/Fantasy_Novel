@@ -2,4 +2,4 @@ Vale threw himself to the ground with a jolt, barely noticing the gravel surface
 
 Vale focused on his hearing, trying to discern which direction the sounds was heading. It seemed to be moving... away from him? Maybe towards him, he wasn't sure. He held his breath, his heartbeat pounding in his ears, his higher thoughts drowning below a sea of fear. He lost track of how much time passed as he lay in the dirt, his eyes squeezed shut, the smell of mud and stone overwhelming his senses.
 
-He knew he would have to get up eventually, to face whatever it was blocking his path. If it was even still there. 
+He knew he would have to get up eventually, to face whatever it was blocking his path. If it was even still there. He didn't hear any shuffling, just the whistle of a slight breeze rushing past him. It left, Vale knew it. He knew from the stories, the Altered were too dumb to stay in one place, let alone do it without making a noise. Vale 
