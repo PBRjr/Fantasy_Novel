@@ -22,4 +22,6 @@ Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in 
 
 It lunged, outstretched arms ending in long, razor sharp claws. Vale tried to step away, but in his shaking panic his foot slipped, causing him to fall back. The second altered sailed through the space his body just occupied.
 
-Vale scrambled to his feet, upturned dirt and dust obscuring his vision and drying his throat. He turned to run. He actually made it a few steps before an unseen force tackled him to the ground. A sudden pain rushed into his left shoulder, accompynied by a tearing sensation as the creature ripped its claw from him. Vale could actually hear  cries of excitement the creature
+Vale scrambled to his feet, upturned dirt and dust obscuring his vision and drying his throat. He turned to run. He only made it a few steps before an unseen force tackled him to the ground. A sudden pain rushed into his left shoulder, accompanied by a tearing sensation as the creature ripped its claw from his back. Cries of excitement from behind him served as a backdrop for the pain that quickly overwhelmed Vale's senses. He tried to scream but the air in his lungs had already abandoned him.
+
+He pushed against the ground, trying to get his feet under him, but the altered casually shoved hi
