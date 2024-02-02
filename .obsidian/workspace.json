@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27146bf8de6e9597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f557005093d9932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Themes and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40b41b4764bb9051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Significant Characters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9558a8f1f0183b29",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +158,10 @@
   },
   "active": "9558a8f1f0183b29",
   "lastOpenFiles": [
-    "Themes and Ideas.md",
-    "Scene strange altered.md",
-    "Significant Characters.md",
     "Main Characters.md",
+    "Themes and Ideas.md",
+    "Significant Characters.md",
+    "Scene strange altered.md",
     "Need Exploration.md",
     "Setting.md",
     "2024-01-26.md",
