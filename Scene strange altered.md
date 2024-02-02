@@ -11,3 +11,5 @@ He blinked hard. It was standing 10 feet in front of him. It was staring right a
 Why was it smiling at him? Did they normally smile? Surely that would have come up before. Maybe it was overshadowed by the deadly mutations and strict loss of humanity. Then of course there's the... why was it still staring at him?
 
 Despite the bone-chilling fear this thing exuded, Vale met its stare. Its unblinking eyes were speckled with veins of red, like the outstretched arms of a galaxy being swallowed by the the black hole at its center. As hungry as the thing seemed, all it did was stare, paralyzed by some unseen thing, some unknown captor.
+
+Vale took a cautious step back. It didn't move. He took another, then another. His steps sped up, until he turned and ran without looking back. 
