@@ -8,12 +8,12 @@ He pushed himself to his knees, then crouched on his feet. He peeked over the ha
 
 He blinked hard. It was standing 10 feet in front of him, and it was staring right at him.
 
-The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled, forming an unnatural weight that bolted its form to the ground. They were so massive that parts of the altered were unrecognizable, distinctly inhuman, like someone created it by closing their eyes and tossing together a bunch of random spare-parts.
+The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled , forming an unnatural weight that bolted its form to the ground. They were so overdeveloped that parts of the altered were unrecognizable, distinctly inhuman, like someone created it by closing their eyes and tossing together a bunch of random parts.
 
-Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes each surrounded by red veins stared back. And in that stare was stored a message. One that Vale intercepted far too often. It was so clear, Vale could hear it in his thoughts.
+Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes each surrounded by red veins stared back. And in that stare was stored a message. One that Vale intercepted far too often. It was so clear, Vale could thought he could almost hear it. Help me.  *Help me.*
 
-*Help me.*
+*HELP ME.*
 
 Wait... did he actually just hear it?
 
-Vale's thoughts were interrupted by rapid footsteps on a dirt path. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. This one wasn't smiling.
+Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. Where did it come from? It lunged at him, outstretched arms ending in long, razor sharp claws. 
