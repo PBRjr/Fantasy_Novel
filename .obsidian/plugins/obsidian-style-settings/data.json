@@ -9,5 +9,6 @@
   "obsidian-prism-theme@@h6-text-color-dt": "var(--color-grey-text)",
   "obsidian-prism-theme@@text-bold-color-dt": "var(--color-pink-text)",
   "obsidian-prism-theme@@text-italic-color-dt": "var(--color-grey-text)",
-  "obsidian-prism-theme@@text-italic-bold-color-dt": "var(--color-red-text)"
+  "obsidian-prism-theme@@text-italic-bold-color-dt": "var(--color-red-text)",
+  "obsidian-prism-theme@@pt-focused-mode": false
 }
