@@ -36,4 +36,4 @@ So he laid there and waited to be killed for what felt like eternity.
 
 *Shouldn't I be dead? That thing didn't look like it was trying to savor the moment. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over and over again.*
 
-Vale opened his eyes. He wasn't in the afterlife. He was still on the ground. but, the nimble and deadly creature had been replaced by a pile of pale, unrecognizable remains. Standing above it was a giant whos hulking arms were covered in gore. And that giant was smiling.
+Vale opened his eyes. He wasn't in the afterlife. In fact, he was still on the ground, but the creature that tried to kill him had been replaced by a pile of pale, unrecognizable remains. Standing above it was a giant whos hulking arms were covered in gore. And that giant was smiling.
