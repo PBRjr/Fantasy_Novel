@@ -16,4 +16,4 @@ Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes e
 
 Wait... did he actually just hear it?
 
-Vale's thoughts were interrupted by rapid footsteps on a dirt path. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. 
+Vale's thoughts were interrupted by rapid footsteps on a dirt path. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. This one wasn't smiling.
