@@ -8,16 +8,18 @@ He pushed himself to his knees, then crouched on his feet. He peeked over the ha
 
 He blinked hard. It was standing 10 feet in front of him, and it was staring right at him.
 
-The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled , forming an unnatural weight that bolted its form to the ground. They were so overdeveloped that parts of the altered were unrecognizable, distinctly inhuman, like someone created it by closing their eyes and tossing together a bunch of random parts.
+The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled, forming an unnatural weight that bolted its form to the ground. They were so overdeveloped that parts of the altered were unrecognizable, distinctly inhuman, like someone created it by closing their eyes and tossing together a bunch of random parts.
 
 Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes each surrounded by red veins stared back. And in that stare was stored a message. One that Vale intercepted far too often. It was so clear, Vale could thought he could almost hear it. Help me.  *Help me.*
 
 *HELP ME.*
 
-Wait... did he actually just hear it?
+Wait... had he actually just heard it? His mind had to be playing tricks on him.
 
-Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. This one wasn't smiling.
+Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in time to see a smaller altered charging at him, only about 10 feet away. It wasn't smiling.
 
 *Where did this one come from?* he thought. *Did they just... bait me into a trap?* 
 
-It lunged, outstretched arms ending in long, razor sharp claws. Vale tried to step away, but in his shaking panic his foot slipped, causing him to fall back, the second altered sailing throug
+It lunged, outstretched arms ending in long, razor sharp claws. Vale tried to step away, but in his shaking panic his foot slipped, causing him to fall back. The second altered sailed through the space his body just occupied.
+
+Vale scrambled to his feet, upturned dirt and dust obscuring his vision and drying his throat. He turned to run.
