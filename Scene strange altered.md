@@ -24,16 +24,16 @@ It lunged, outstretched arms ending in long, razor sharp claws. Vale tried to st
 
 Vale scrambled to his feet, upturned dirt and dust obscuring his vision and drying his throat. He turned to run. He only made it a few steps before an unseen force tackled him to the ground. A sudden pain rushed into his left shoulder, accompanied by a tearing sensation as the creature ripped its claw from his back. Cries of excitement from behind him served as a backdrop for the pain that quickly overwhelmed Vale's senses. He tried to scream but the air in his lungs had already abandoned him.
 
-*Not like this,* he thought. *You are not going to die today, not to some ugly creature from the fairytales. Get up. Get up!*
+*Not like this,*  he thought. *You are not going to die today, not to some ugly creature from the fairytales. Get up. Get up!*
 
-Taking a deep breath, he pushed against the ground and screamed. All of his remaining strength went into getting his feet under him. First he got to his hands and knees, then into a crouching position. He moved to stand, struggling against the weight his dire situation.
+Taking a deep breath, he pushed against the ground and screamed. All of his remaining strength went into getting his feet under him. First he got to his hands and knees, then into a crouching position. He moved to stand, struggling against the weight this dire situation.
 
-The altered casually shoved him back to the ground. It let out another maniacle chuckle. Vale stayed there, paralyzed on the ground, waiting for it all to end. He was pretty sure he could still move his body, and in fact, he was mostly uninjured, apart from the wound on his back. 
+The altered casually shoved him back to the ground. It let out another maniacal chuckle. Vale stayed there, paralyzed, waiting for it all to end. He was pretty sure he could still move his body, and in fact, he was mostly uninjured, apart from the wound on his back. 
 
-That's not why he remained unmoved. This creature had not commanded Vale to stop fighting, nor did it inject anything into his veins. No, Vale chose to lay down and cower in the dirt. He chose to let this thing end him. Worst of all, he chose to stop fighting, to give up. 
+That's not why he remained unmoved. This creature had not commanded Vale to stop fighting, nor did it inject anything into his veins. It wasn't injury or even fatigue. No, Vale **chose** to lay down and cower in the dirt. He **chose** to let this thing end him. Worst of all, he **chose** to stop fighting, to give up. 
 
 So he laid there and waited to be killed for what felt like eternity.
 
-*Shouldn't I be dead? That thing didn't look like it was trying to take its time. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over and over again*
+*Shouldn't I be dead? That thing didn't look like it was trying to savor the moment. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over and over again.*
 
-Vale opened his eyes. He wasn't in the afterlife, and he was still on the ground. Bur, the nimble and deadly creature had been replaced by a pile of pale, unrecognizable remains. Standing above it was a giant whos hulking arms were covered in gore. And that giant was smiling.
+Vale opened his eyes. He wasn't in the afterlife. He was still on the ground. but, the nimble and deadly creature had been replaced by a pile of pale, unrecognizable remains. Standing above it was a giant whos hulking arms were covered in gore. And that giant was smiling.
