@@ -16,4 +16,5 @@ Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes e
 
 Wait... did he actually just hear it?
 
-Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away. Where did it come from? It lunged at him, outstretched arms ending in long, razor sharp claws. 
+Rapid footsteps interrupted Vale's train of thought. He pulled his gaze away in time to see another altered charging at him, only about 5 feet away.
+*Where did this one come from?* he thought. lunged at him, outstretched arms ending in long, razor sharp claws. 
