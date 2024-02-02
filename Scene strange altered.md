@@ -30,4 +30,6 @@ That's not why he remained unmoved. This creature had not commanded Vale to stop
 
 So he laid there and waited to be killed for what felt like eternity.
 
-*Shoudn't I be dead? That thing didn't look like it was trying to take its time. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over*
+*Shoudn't I be dead? That thing didn't look like it was trying to take its time. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over and over again*
+
+Vale opened his eyes. He wasn't in the afterlife, and he was still on the ground. Bur, the nimble and deadly creature had been replaced by a pile of pale, unrecognizable remains. Standing above it was a giant whos hulking arms were covered in gore. And that giant was smiling.
