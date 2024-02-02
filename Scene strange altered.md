@@ -6,6 +6,7 @@ He knew he would have to get up eventually, to face whatever it was blocking his
 
 He pushed himself to his knees, then crouched on his feet. He peeked over the haphazardly stacked pile of debris in front of him, trying to get his eyes to focus in the dim moonlight. He reached up with his left arm, wiping away the blur leftover from prolonged exposure to the back of his eyelids.
 
-He blinked hard. It was standing 10 feet in front of him. It was staring right at him. And it was *smiling*.
+He blinked hard. It was standing 10 feet in front of him. It was staring right at him. And it was smiling.
 
-Why was it smiling at him? Did they normally smile? Surely that would have come up before. 
+Why was it smiling at him? Did they normally smile? Surely that would have come up before. Maybe it was overshadowed by the deadly mutations and strict loss of humanity.
+
