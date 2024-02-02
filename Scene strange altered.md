@@ -8,5 +8,7 @@ He pushed himself to his knees, then crouched on his feet. He peeked over the ha
 
 He blinked hard. It was standing 10 feet in front of him, and it was staring right at him.
 
-The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled, forming an unnatural weight that bolted its form to the ground. 
+The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled, forming an unnatural weight that bolted its form to the ground. They were so massive that parts of the altered were unrecognizable, distinctly inhuman, like someone created it by closing their eyes and tossing together a bunch of random spare-parts.
+
+Its brick-wall form cracked as Vale met its gaze. A pair of cloudy black-holes each surrounded by red veins stared back. And in that stare was stored a message.
 
