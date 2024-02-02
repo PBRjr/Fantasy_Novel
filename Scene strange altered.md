@@ -24,4 +24,6 @@ It lunged, outstretched arms ending in long, razor sharp claws. Vale tried to st
 
 Vale scrambled to his feet, upturned dirt and dust obscuring his vision and drying his throat. He turned to run. He only made it a few steps before an unseen force tackled him to the ground. A sudden pain rushed into his left shoulder, accompanied by a tearing sensation as the creature ripped its claw from his back. Cries of excitement from behind him served as a backdrop for the pain that quickly overwhelmed Vale's senses. He tried to scream but the air in his lungs had already abandoned him.
 
-He pushed against the ground, trying to get his feet under him, but the altered casually shoved hi
+He pushed against the ground, trying to get his feet under him, but the altered casually shoved him back to the ground. It let out another maniacle chuckle. Vale stayed there, paralyzed on the ground, waiting for it all to end. He was pretty sure he could still move his body, and in fact, he was mostly uninjured, apart from the wound on his back. 
+
+That's not why he remained unmoved. This creature had not commanded Vale to stop fighting, nor did it inject anything into his veins. No, Vale chose to lay down. He chose to cower in the dirt.
