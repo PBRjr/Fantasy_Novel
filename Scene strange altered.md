@@ -26,4 +26,8 @@ Vale scrambled to his feet, upturned dirt and dust obscuring his vision and dryi
 
 He pushed against the ground, trying to get his feet under him, but the altered casually shoved him back to the ground. It let out another maniacle chuckle. Vale stayed there, paralyzed on the ground, waiting for it all to end. He was pretty sure he could still move his body, and in fact, he was mostly uninjured, apart from the wound on his back. 
 
-That's not why he remained unmoved. This creature had not commanded Vale to stop fighting, nor did it inject anything into his veins. No, Vale chose to lay down. He chose to cower in the dirt.
+That's not why he remained unmoved. This creature had not commanded Vale to stop fighting, nor did it inject anything into his veins. No, Vale chose to lay down and cower in the dirt. He chose to let this thing end him. Worst of all, he chose to stop fighting, to give up. 
+
+So he laid there and waited to be killed for what felt like eternity.
+
+*Shoudn't I be dead? That thing didn't look like it was trying to take its time. Maybe I am dead and the afterlife is just what you experienced right before you died. Or maybe the afterlife was you experiencing your death over*
