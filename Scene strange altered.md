@@ -6,5 +6,7 @@ He knew he would have to get up eventually, to face whatever it was blocking his
 
 He pushed himself to his knees, then crouched on his feet. He peeked over the haphazardly stacked pile of debris in front of him, trying to get his eyes to focus in the dim moonlight. He reached up with his left arm, wiping away the blur leftover from prolonged exposure to the back of his eyelids.
 
-He blinked hard. It was standing 10 feet in front of him, and it was staring right at
+He blinked hard. It was standing 10 feet in front of him, and it was staring right at him.
+
+The thing was dressed in ripped clothing, revealing unnaturally pale and brittle skin. Muscles bulged and swelled, forming an unnatural weight that bolted its form to the ground. 
 
